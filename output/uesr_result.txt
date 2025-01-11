@@ -1,12 +1,12 @@
 🕘️更新时间,#genre#
-2025-01-11 06:38:23,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-01-11 18:37:26,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
-CCTV-1,http://1.199.235.116:9901/tsfile/live/0001_1.m3u8
-CCTV-1,http://220.164.192.48:50085/tsfile/live/0002_1.m3u8
-CCTV-1,http://219.128.121.202:59901/tsfile/live/0001_1.m3u8
-CCTV-1,http://219.128.121.202:59901/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV-1,http://183.136.148.214:9901/tsfile/live/0001_1.m3u8
+CCTV-1,http://59.48.75.130:3052/tsfile/live/0001_1.m3u8
+CCTV-1,http://111.9.163.109:9901/tsfile/live/0001_1.m3u8
+CCTV-1,http://183.66.15.146:60901/tsfile/live/0001_1.m3u8
 CCTV-1,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
 CCTV-1,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030810/1.m3u8
 CCTV-1,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000021973/1.m3u8
