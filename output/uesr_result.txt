@@ -1,12 +1,12 @@
 🕘️更新时间,#genre#
-2025-01-17 18:39:15,http://60.210.100.54:352/tsfile/live/0001_1.m3u8
+2025-01-18 06:35:09,http://61.136.67.238:50085/tsfile/live/0001_1.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://60.210.100.54:352/tsfile/live/0001_1.m3u8
 CCTV-1,http://61.136.67.238:50085/tsfile/live/0001_1.m3u8
 CCTV-1,http://61.136.67.238:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1,http://60.208.61.2:352/tsfile/live/0001_1.m3u8
-CCTV-1,http://61.173.144.157:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,http://118.122.189.74:9901/tsfile/live/0001_1.m3u8
+CCTV-1,http://60.210.100.54:352/tsfile/live/0001_1.m3u8
+CCTV-1,http://111.14.181.15:9901/tsfile/live/0001_1.m3u8
 CCTV-1,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
 CCTV-1,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030810/1.m3u8
 CCTV-1,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000021973/1.m3u8
