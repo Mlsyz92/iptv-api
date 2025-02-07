@@ -1,12 +1,12 @@
 🕘️更新时间,#genre#
-2025-02-07 18:45:45,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-02-08 06:16:24,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-CCTV-1,http://106.46.147.82:10443/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1,http://218.88.97.149:808/hls/1/index.m3u8
-CCTV-1,http://175.31.21.146:4480/hls/1/index.m3u8
 CCTV-1,http://112.46.85.60:8009/hls/501/index.m3u8
+CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
+CCTV-1,http://110.53.52.63:8888/newlive/live/hls/2/live.m3u8
+CCTV-1,http://219.135.180.210:18888/hls/1/index.m3u8
 CCTV-1,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
 CCTV-1,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030810/1.m3u8
 CCTV-1,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000021973/1.m3u8
