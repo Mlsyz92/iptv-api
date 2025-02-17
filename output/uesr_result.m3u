@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="2025-02-17 06:16:38" tvg-logo="https://live.fanmingming.cn/tv/2025-02-17 06:16:38.png" group-title="🕘️更新时间",2025-02-17 06:16:38
+#EXTINF:-1 tvg-name="2025-02-17 18:21:26" tvg-logo="https://live.fanmingming.cn/tv/2025-02-17 18:21:26.png" group-title="🕘️更新时间",2025-02-17 18:21:26
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
